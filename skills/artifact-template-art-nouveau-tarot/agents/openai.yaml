@@ -1,6 +1,6 @@
 interface:
   display_name: "Art Nouveau Tarot"
-  short_description: "Create personal and character tarot cards with new original art"
+  short_description: "Create fine anime tarot cards with luminous botanical ornament"
   icon_large: "./assets/preview.png"
   default_prompt: "Use $artifact-template-art-nouveau-tarot to generate a tarot card from my theme or character."
 policy:

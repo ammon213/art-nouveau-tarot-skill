@@ -1,15 +1,15 @@
-# Public reference index
+# Reference index — v2
 
 Resolve paths against the skill root.
 
 | File | Role | Useful for |
 |---|---|---|
-| assets/reference.png | THE LAMPLIGHTER, public canonical anchor | General linework, border, hierarchy and print rendering |
-| assets/original-references/01-the-botanist.png | Original woman examining a potted fern | Plant themes, bent/seated figure, green skirt palette |
-| assets/original-references/02-the-watchmaker.png | Original older woman repairing a watch | Older faces, seated posture, visible tool handling, ochre accents |
-| assets/original-references/03-the-voyager.png | Original male traveler with map and compass | Stepping pose, trousers, teal accents, travel symbols |
+| assets/reference.png | THE STARKEEPER, canonical original-character sample | Delicate anime face, ivory/blue luminosity, fine dense ornament, seated full body and prop handling |
+| assets/original-references/01-the-gardener.png | THE GARDENER, original-character companion | Standing man, gentle green palette and interaction with plants |
 
-Use the anchor by default and add only one companion if useful. `assets/preview.png` is an unchanged copy of the anchor for the gallery, not another reference. Never treat these fictional sample people as the user's actual identity.
+Use the anchor by default and add at most one listed companion for a concrete need. Preview is an unchanged copy of the anchor. Never use sample people as the user's identity.
 
-The four complete source prompts are retained in `references/generation-prompts/`. All four were generated from text only; no image path or recent-image reference mechanism was supplied. The set was visually checked for complete card edges, readable titles, recognizable primary props and coherence of the newly specified frame. No reverse-image search or global uniqueness proof is claimed.
+Both complete prompts are in `references/generation-prompts/`. The anchor used a user-selected earlier generated character card as a style input; the companion used the anchor. No third-party deck photographs or prior character example are bundled. These are not text-only generations and their full upstream rights lineage is not independently verified. Original-character design is not a global uniqueness or legal-clearance claim.
+
+The earlier darker public samples are superseded and must not be selected as current style inputs.
 

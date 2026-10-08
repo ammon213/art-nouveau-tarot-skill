@@ -1,24 +1,27 @@
-# Public visual system
+# Canonical visual system — v2
 
-Canonical anchor: `assets/reference.png`, titled THE LAMPLIGHTER. This public edition has its own border and artwork; it does not require the earlier private image set.
+Anchor: `assets/reference.png`, THE STARKEEPER. This revision restores the delicate anime illustration and luminous dense ornament selected by the user. It replaces the earlier public edition's darker, more naturalistic THE LAMPLIGHTER reference.
 
-## Core appearance
+## Essential style
 
-- About 5:9 vertical layout, fine double outer rules on a stone-grey band, complete rounded corners.
-- Small square corner rosettes; alternating elongated diamond and seed-pod decorations along the sides, interwoven with narrow vines.
-- Upper arch built from overlapping ivory ribbon-like ribs; a small polygonal floral crest; compact botanical lower brackets and a rectangular beveled title plaque.
-- Full-body stylized anatomy with readable hands, a calm face and expressive but composed pose. Use age- and character-appropriate proportions.
-- Fine charcoal/taupe continuous contours, slightly stronger subject outlines and much finer interior hair, fabric, petal and engraving lines.
-- Mostly bounded color regions, one or two local shadow tones, slight gentle wash and restrained print texture; avoid dirty yellow parchment, cracks, heavy distress and cinematic glow.
-- Pale local architectural panels in shallow decorative space, not deep landscapes or panoramas. Clustered flowers and subtle garment curves join scene and frame.
-- Ivory/taupe/charcoal base with muted theme accents. Preserve source-specific costume colors for known characters.
-- One exact title only, in condensed outlined decorative uppercase inside the bottom plaque.
+- Roughly 5:9 portrait; narrow lightly mottled grey/taupe outer band, nested fine rules, rounded complete corners.
+- Delicately simplified anime faces, lightly indicated noses and mouths, clean eyes, graceful character-appropriate proportions. Source identity takes priority over sample body shape.
+- Fine continuous charcoal/taupe contours, a little stronger on principal silhouettes, much thinner in hair, folds, petals and architectural engraving.
+- Mostly enclosed flat color areas with one or two gentle local shadow tones. High luminous ivory and pale cool accents; dark costumes may form a clear silhouette without darkening the whole card.
+- Extremely faint clean printed surface. No brown overcast, dirty yellow parchment, coarse texture, scratched antique effect, glossy skin or cinematic light.
+- Abundant small botanical clusters and layered carved ivory columns, patterned arches and local stone fragments, all in shallow decorative space. Preserve density without obstructing the face or active hands; avoid far-off cities and deep landscapes.
+- Layered ivory/taupe carved-leaf scrolls, mirrored branching foliage at the top, small floral crest, fine vertical bead/leaf-pendant ornaments and inward curling lower brackets. Design new contours and motif arrangements rather than tracing a sample frame.
+- Compact ivory scroll-ended bottom cartouche around five percent of card height. Condensed outlined decorative uppercase; user's exact language/title overrides default English.
 
-## Variable content
+## Content that varies
 
-Faces, ages, body proportions, poses, clothing, motifs, flower species, accent hues, symbols and titles may change. Keep the public frame vocabulary without copying a sample person's entire scene and action. For an existing fictional identity, recognizable clothing and proportions override Victorian tailoring.
+Faces, ages, proportions, standing/seated/stepping poses, garments, flower species, theme colors, symbols, titles and architectural motif arrangement may change. Keep linework, gentle face treatment, palette luminosity, ornamental density and medium coherent. Anime subjects keep their own recognizable costumes.
 
-## Practical limitations
+## Observed failure modes
 
-Pure text can drift more than image-backed generation. A prompt does not establish legal clearance. Inspect props and hands in actual outputs; generated maps, tools and watch mechanisms are illustration elements, not verified technical diagrams.
+- Generic "vintage tarot" can drift toward sepia or naturalistic storybook painting.
+- A new original subject should not trigger a new drawing medium or sparser ornament.
+- Large square badges, repeated diamond chains and broad wall panels drift toward the superseded public reference.
+- Flat color does not mean unfinished minimal detail; dense small lines and shallow layered forms are part of this template.
+- Text-only generation can drift more; do not silently omit accessible style inputs.
 
